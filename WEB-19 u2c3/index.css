@@ -1,0 +1,26 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    color: blue;
+    
+
+
+    
+}
+#accept {
+    background-color: rgb(49, 49, 198);
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+}
+table{
+    background-color: blue;
+    margin: auto;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    
+
+    
+   
+
+}
